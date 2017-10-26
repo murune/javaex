@@ -1,0 +1,35 @@
+#include<stdio.h>
+int main()
+{
+	int n,l;
+	scanf("%d",&n);
+	int a[n];
+	for(l=0;l<n;l++){
+	scanf("%d",&a[l]);
+	}
+	
+	while()
+	{	
+	if()
+		
+	}
+	
+	
+	for(l=0;l<n;l++){
+		
+		if(a[l]==a[l+1] && (l+1)<n)
+		{
+			
+		}
+		if(a[l]<a[l+1] && (l+1)<n)
+		{
+			for
+		}
+	}
+
+
+
+
+return 0;
+}
+
